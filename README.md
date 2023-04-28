@@ -1,5 +1,5 @@
 ### A leaderboard to track my progressions
 
-### Ideas
+### - Ideas
 
-### Plans
+### - Plans
